@@ -98,6 +98,3 @@ The application integrates with multiple platforms. Make sure you have valid API
 
 This project was created for a hackathon. Feel free to submit issues and enhancement requests.
 
-## License
-
-[Your chosen license]
